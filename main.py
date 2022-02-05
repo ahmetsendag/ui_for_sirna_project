@@ -13,9 +13,7 @@ class Main(QWidget):
         self.ui = Ui_Form()
         self.ui.setupUi(self)
 
-
-
-
+        
 app = QApplication(sys.argv)
 
 window = Main()
