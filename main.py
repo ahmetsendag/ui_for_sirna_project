@@ -16,14 +16,6 @@ class Main(QWidget):
 
 
 
-
-
-
-
-
-
-
-
 app = QApplication(sys.argv)
 
 window = Main()
@@ -31,29 +23,6 @@ window.setFont(QFont("Times",16))
 app.setStyleSheet(qdarkstyle.load_stylesheet(qt_api='pyside6'))
 window.show()
 app.exec()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
