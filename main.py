@@ -1,4 +1,3 @@
-
 from arayuz import Ui_Form
 from PySide6.QtWidgets import QWidget, QApplication,QFormLayout,QPushButton
 from PySide6.QtGui import QFont
